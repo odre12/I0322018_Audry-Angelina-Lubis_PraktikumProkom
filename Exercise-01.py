@@ -1,0 +1,5 @@
+print ("Audry Angelina Lubis")
+print ("I0322018")
+print ("Saya tinggal di Bukittinggi, Sumatera Barat")
+print ("Kampung halaman saya terletak di daerah dataran tinggi sehingga suhu di sana cukup dingin. Di sana masih banyak terdapat hamparan sawah yang cukup luas. Banyak objek wisata alam yang ada di kampung halaman saya.")
+print ("Setelah lulus dari Teknik Industri UNS, saya berharap dapat bekerja sesuai dengan passion saya dan menjadi orang yang sukses.")
